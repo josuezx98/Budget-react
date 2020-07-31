@@ -1,4 +1,4 @@
-Link https://blissful-bell-7edbc6.netlify.app/
+Link budget-react-josu.netlify.app
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
